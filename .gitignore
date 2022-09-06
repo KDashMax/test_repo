@@ -1,6 +1,8 @@
 *.class
+*.png
 bin/
 .classpath
 .classpath.txt
 a.txt
 GIT CLONE TEST/
+
